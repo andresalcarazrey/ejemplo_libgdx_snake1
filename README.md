@@ -1,5 +1,10 @@
 # LibgdxEjemplo2
 
+Este proyecto ha sido realizado para el módulo de Programación del CFGS Desarrollo de Aplicaciones Web
+IES Politécnico Jesús Marín Málaga
+
+Profesor: Andrés Alcaraz Rey
+
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
