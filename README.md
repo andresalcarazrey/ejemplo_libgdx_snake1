@@ -1,7 +1,12 @@
-# LibgdxEjemplo2
+# Videojuego Snake 1
 
 Este proyecto ha sido realizado para el módulo de Programación del CFGS Desarrollo de Aplicaciones Web
 IES Politécnico Jesús Marín Málaga
+
+Objetivos: 
+- Presentar el ciclo de vida básico de una aplicación libgdx
+- Gestionar el movimiento de dos objetos sencillos, uno con posiciones automátizadas generadas al azar y otro mediante control por clicks de ratón
+- Presentar un sistema sencillo de control de estados (jugado y game over)
 
 Profesor: Andrés Alcaraz Rey
 
