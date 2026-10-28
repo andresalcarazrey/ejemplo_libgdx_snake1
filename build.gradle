@@ -62,7 +62,7 @@ configure(subprojects - project(':android')) {
 
 subprojects {
   version = '$projectVersion'
-  ext.appName = 'LibgdxEjemplo2'
+  ext.appName = 'Snake1'
   repositories {
     mavenCentral()
     maven { url 'https://s01.oss.sonatype.org' }
